@@ -30,7 +30,7 @@ Este projeto foi desenvolvido com o objetivo de criar um **sistema de controle d
      - 👤 Nome do usuário
      - 🔄 Status: Entrada ou Saída
    - 🌐 Envia os dados via **JSON** para uma página web.
-4. A interface web mostra o **último acesso** e, futuramente, o **histórico completo**.
+4. A interface web mostra o **último acesso** e **histórico completo**.
 
 ---
 
@@ -39,7 +39,7 @@ Este projeto foi desenvolvido com o objetivo de criar um **sistema de controle d
 🔧 Hardware
 - 📡 **NodeMCU ESP8266**
 - 🔒 **Módulo RFID RC522**
-- 🖥️ **Display OLED 0.96" I2C**
+- 🖥️ **Display OLED I2C**
 
 💻 Software
 - Arduino IDE
